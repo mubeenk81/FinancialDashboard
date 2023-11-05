@@ -1,9 +1,10 @@
 # FinancialDashboard
 Interactive financial dashboard in Python using Bokeh.
 
-# Pre-requisites
-Must have bokeh, numpy and yfinance libabries installed. You can install these using the following command: 
-pip install bokeh numpy yfinance
+# Prerequisites
+Python (3.7 or higher)
 
-# To run
-Open up the command prompt and and enter python -m bokeh serve --show "full path"
+# Installation and set up
+1. Use the package manager to install the required libraries:
+pip install bokeh numpy yfinance
+2. Open up the command prompt and and enter python -m bokeh serve --show "full path"
